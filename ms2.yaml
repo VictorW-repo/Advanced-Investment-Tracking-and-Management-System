@@ -1,0 +1,28 @@
+---
+# Members of your group.
+group:
+  - name: Ryan Mistretta
+    netid: rhm255
+  - name: Andrew Halajian
+    netid: ah697
+  - name: Ruijie Wang
+    netid: rw498
+# Your PM.
+pm:
+  name: Emerald Liu
+  netid: sl2322
+# Set to false if you don't want your gallery entry to be public.
+publish: true
+# Pithy title
+title: "Stock Market Simulator"
+# OK if this is a Cornell Github link, but public gallery viewers won't be able to see it.
+git-repo: "https://github.coecis.cornell.edu/rhm255/cs3110-FinalProject"
+# If you have no demo screencast, replace the url string with an empty string ""
+demo-video-url: "https://watch.screencastify.com/v/aFBiHO0vntlJx5nxnb9r"
+# Write a short, attention-grabbing description of your project.
+desc: >
+  Our project simulates Stock Market Paper Trading. The interface shows 
+  the user what they would see if they were actually reading for the stock 
+  market. The user can search for stocks, get the price, invest, and sell.
+  The user will be able to see their stock history, net gain and loss, and
+  investments and balance.

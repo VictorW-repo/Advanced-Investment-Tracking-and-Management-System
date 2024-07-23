@@ -1,0 +1,20 @@
+lib: [
+  "_build/install/default/lib/Api/META"
+  "_build/install/default/lib/Api/api.a"
+  "_build/install/default/lib/Api/api.cma"
+  "_build/install/default/lib/Api/api.cmi"
+  "_build/install/default/lib/Api/api.cmt"
+  "_build/install/default/lib/Api/api.cmti"
+  "_build/install/default/lib/Api/api.cmx"
+  "_build/install/default/lib/Api/api.cmxa"
+  "_build/install/default/lib/Api/api.ml"
+  "_build/install/default/lib/Api/api.mli"
+  "_build/install/default/lib/Api/dune-package"
+  "_build/install/default/lib/Api/opam"
+]
+libexec: [
+  "_build/install/default/lib/Api/api.cmxs"
+]
+doc: [
+  "_build/install/default/doc/Api/README.md"
+]

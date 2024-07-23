@@ -1,0 +1,16 @@
+{
+  "accounts": [
+    {
+      "Username": "Ryan",
+      "Password": "password",
+      "investedStocks": [
+        {
+          "name": "AAPL",
+          "price": "100.00",
+          "shares": "2",
+          "dateInvested": "1/1/2023"
+        }
+      ]
+    }
+  ]
+}

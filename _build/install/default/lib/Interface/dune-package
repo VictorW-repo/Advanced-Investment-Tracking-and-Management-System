@@ -1,0 +1,112 @@
+(lang dune 3.7)
+(name Interface)
+(sections (lib .) (libexec .) (doc ../../doc/Interface))
+(files
+ (lib
+  (META
+   choose.ml
+   choose.mli
+   dashboard.ml
+   dashboard.mli
+   dataCheck.ml
+   dataCheck.mli
+   dune-package
+   fileWrite.ml
+   fileWrite.mli
+   interface.a
+   interface.cma
+   interface.cmi
+   interface.cmt
+   interface.cmx
+   interface.cmxa
+   interface.ml
+   interface__Choose.cmi
+   interface__Choose.cmt
+   interface__Choose.cmti
+   interface__Choose.cmx
+   interface__Dashboard.cmi
+   interface__Dashboard.cmt
+   interface__Dashboard.cmti
+   interface__Dashboard.cmx
+   interface__DataCheck.cmi
+   interface__DataCheck.cmt
+   interface__DataCheck.cmti
+   interface__DataCheck.cmx
+   interface__FileWrite.cmi
+   interface__FileWrite.cmt
+   interface__FileWrite.cmti
+   interface__FileWrite.cmx
+   interface__Operations.cmi
+   interface__Operations.cmt
+   interface__Operations.cmti
+   interface__Operations.cmx
+   interface__StockPage.cmi
+   interface__StockPage.cmt
+   interface__StockPage.cmti
+   interface__StockPage.cmx
+   opam
+   operations.ml
+   operations.mli
+   stockPage.ml
+   stockPage.mli))
+ (libexec (interface.cmxs))
+ (doc (README.md)))
+(library
+ (name Interface)
+ (kind normal)
+ (archives (byte interface.cma) (native interface.cmxa))
+ (plugins (byte interface.cma) (native interface.cmxs))
+ (native_archives interface.a)
+ (requires graphics yojson Api unix)
+ (main_module_name Interface)
+ (modes byte native)
+ (modules
+  (wrapped
+   (group
+    (alias
+     (obj_name interface)
+     (visibility public)
+     (kind alias)
+     (source (path Interface) (impl (path interface.ml-gen))))
+    (name Interface)
+    (modules
+     (module
+      (obj_name interface__Choose)
+      (visibility public)
+      (source (path Choose) (intf (path choose.mli)) (impl (path choose.ml))))
+     (module
+      (obj_name interface__Dashboard)
+      (visibility public)
+      (source
+       (path Dashboard)
+       (intf (path dashboard.mli))
+       (impl (path dashboard.ml))))
+     (module
+      (obj_name interface__DataCheck)
+      (visibility public)
+      (source
+       (path DataCheck)
+       (intf (path dataCheck.mli))
+       (impl (path dataCheck.ml))))
+     (module
+      (obj_name interface__FileWrite)
+      (visibility public)
+      (source
+       (path FileWrite)
+       (intf (path fileWrite.mli))
+       (impl (path fileWrite.ml))))
+     (module
+      (obj_name interface__Operations)
+      (visibility public)
+      (source
+       (path Operations)
+       (intf (path operations.mli))
+       (impl (path operations.ml))))
+     (module
+      (obj_name interface__StockPage)
+      (visibility public)
+      (source
+       (path StockPage)
+       (intf (path stockPage.mli))
+       (impl (path stockPage.ml))))))
+   (wrapped true))))

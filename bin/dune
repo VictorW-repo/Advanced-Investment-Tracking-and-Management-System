@@ -1,0 +1,3 @@
+(executable
+ (name landingPage)
+ (libraries graphics api yojson interface))

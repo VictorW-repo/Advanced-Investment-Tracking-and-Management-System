@@ -1,0 +1,55 @@
+{
+  "accounts": [
+    {
+      "Username": "Ryan",
+      "Password": "password",
+      "Balance": "10000",
+      "investedStocks": [
+        {
+          "name": "AAPL",
+          "price": "100.00",
+          "shares": "2",
+          "dateInvested": "1/1/2023"
+        },
+        {
+          "name": "SPG",
+          "price": "100.00",
+          "shares": "1",
+          "dateInvested": "1/1/2023"
+        }
+      ]
+    },
+    {
+      "Username": "Andrew",
+      "Password": "123password",
+      "Balance": "10000",
+      "investedStocks": [
+        {
+          "name": "TSLA",
+          "price": "100.00",
+          "shares": "1",
+          "dateInvested": "1/1/2023"
+        }
+      ]
+    },
+    {
+      "Username": "Ruijie",
+      "Password": "456password",
+      "Balance": "10000",
+      "investedStocks": [
+        {
+          "name": "AMZN",
+          "price": "100.00",
+          "shares": "2",
+          "dateInvested": "1/1/2023"
+        },
+        {
+          "name": "GOOG",
+          "price": "100.00",
+          "shares": "2",
+          "dateInvested": "1/1/2023"
+        }
+      ]
+    }
+  ]
+}

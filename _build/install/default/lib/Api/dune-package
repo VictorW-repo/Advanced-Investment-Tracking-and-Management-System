@@ -1,0 +1,33 @@
+(lang dune 3.7)
+(name Api)
+(sections (lib .) (libexec .) (doc ../../doc/Api))
+(files
+ (lib
+  (META
+   api.a
+   api.cma
+   api.cmi
+   api.cmt
+   api.cmti
+   api.cmx
+   api.cmxa
+   api.ml
+   api.mli
+   dune-package
+   opam))
+ (libexec (api.cmxs))
+ (doc (README.md)))
+(library
+ (name Api)
+ (kind normal)
+ (archives (byte api.cma) (native api.cmxa))
+ (plugins (byte api.cma) (native api.cmxs))
+ (native_archives api.a)
+ (requires lwt cohttp-lwt-unix)
+ (main_module_name Api)
+ (modes byte native)
+ (modules
+  (singleton
+   (obj_name api)
+   (visibility public)
+   (source (path Api) (intf (path api.mli)) (impl (path api.ml))))))

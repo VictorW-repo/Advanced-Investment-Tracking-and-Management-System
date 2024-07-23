@@ -1,0 +1,6 @@
+description = ""
+requires = "Api graphics unix yojson"
+archive(byte) = "interface.cma"
+archive(native) = "interface.cmxa"
+plugin(byte) = "interface.cma"
+plugin(native) = "interface.cmxs"

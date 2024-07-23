@@ -1,0 +1,266 @@
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Runner: sequential
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Chooser: simple
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Configuration suite_name = "test suite"
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Configuration cache_filename = "/Users/ryanmistretta/Desktop/final/_build/oUnit-$(suite_name).cache"
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Configuration run_gc_full_major = "true"
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Configuration display = "true"
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Configuration results_style_1_X = "false"
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Configuration testdata_dir = "/Users/ryanmistretta/Desktop/final/data"
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Configuration health_check_interval = "1."
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Configuration verbose = "false"
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Configuration chooser = "simple"
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Configuration output_html_dir = "none"
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Configuration processes_kill_period = "5."
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Configuration runner = "sequential"
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Configuration shards = "2"
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Configuration processes_grace_period = "5."
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Configuration log_encoding = "utf-8"
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Configuration output_junit_file = "none"
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Configuration ci = "false"
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Configuration output_file = "/Users/ryanmistretta/Desktop/final/_build/oUnit-$(suite_name)-$(shard_id).log"
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Start test test suite:0:box1 not clicked at (2,0).
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:0:box1 not clicked at (2,0) is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: End test test suite:0:box1 not clicked at (2,0).
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Start test test suite:1:box1 clicked at (40,60).
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:1:box1 clicked at (40,60) is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: End test test suite:1:box1 clicked at (40,60).
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Start test test suite:2:box2 clicked at corner (200,300).
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:2:box2 clicked at corner (200,300) is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: End test test suite:2:box2 clicked at corner (200,300).
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Start test test suite:3:x of box_1 is 20.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:3:x of box_1 is 20 is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: End test test suite:3:x of box_1 is 20.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Start test test suite:4:x of box_1 is 200.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:4:x of box_1 is 200 is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: End test test suite:4:x of box_1 is 200.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Start test test suite:5:y of box_1 is 25.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:5:y of box_1 is 25 is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: End test test suite:5:y of box_1 is 25.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Start test test suite:6:x of box_1 is 200.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:6:x of box_1 is 200 is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: End test test suite:6:x of box_1 is 200.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Start test test suite:7:right corner x of box_1 is 70.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:7:right corner x of box_1 is 70 is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: End test test suite:7:right corner x of box_1 is 70.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Start test test suite:8:right corner x of box_2 is 220.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:8:right corner x of box_2 is 220 is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: End test test suite:8:right corner x of box_2 is 220.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Start test test suite:9:right corner y of box_1 is 125.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:9:right corner y of box_1 is 125 is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: End test test suite:9:right corner y of box_1 is 125.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Start test test suite:10:right corner y of box_2 is 340.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:10:right corner y of box_2 is 340 is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: End test test suite:10:right corner y of box_2 is 340.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Start test test suite:11:output 5/11/2023.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:11:output 5/11/2023 is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: End test test suite:11:output 5/11/2023.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Start test test suite:12:output 2/29/2004, leap year.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:12:output 2/29/2004, leap year is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: End test test suite:12:output 2/29/2004, leap year.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Start test test suite:13:output 6/30/2024, 30-day month.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:13:output 6/30/2024, 30-day month is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: End test test suite:13:output 6/30/2024, 30-day month.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Start test test suite:14:output 8/31/2023, 31-day month.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:14:output 8/31/2023, 31-day month is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: End test test suite:14:output 8/31/2023, 31-day month.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Start test test suite:15:all accounts from test json.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:15:all accounts from test json is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: End test test suite:15:all accounts from test json.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Start test test suite:16:all accounts from test2 json.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:16:all accounts from test2 json is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: End test test suite:16:all accounts from test2 json.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Start test test suite:17:get account in example json.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:17:get account in example json is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: End test test suite:17:get account in example json.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Start test test suite:18:Ruijie get account in test2 json.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:18:Ruijie get account in test2 json is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: End test test suite:18:Ruijie get account in test2 json.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Start test test suite:19:Clarkson get account in test2 json.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:19:Clarkson get account in test2 json is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: End test test suite:19:Clarkson get account in test2 json.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Start test test suite:20:get account not in example json.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:20:get account not in example json is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: End test test suite:20:get account not in example json.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Start test test suite:21:account not in test, but has that password.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:21:account not in test, but has that password is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: End test test suite:21:account not in test, but has that password.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Start test test suite:22:account not in test, but has that username.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:22:account not in test, but has that username is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: End test test suite:22:account not in test, but has that username.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Start test test suite:23:get stocks in example json from Ryan.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:23:get stocks in example json from Ryan is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: End test test suite:23:get stocks in example json from Ryan.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Start test test suite:24:get stocks in test2 json from ruijie.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:24:get stocks in test2 json from ruijie is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: End test test suite:24:get stocks in test2 json from ruijie.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Start test test suite:25:get stocks in test2 json from Clarkson.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:25:get stocks in test2 json from Clarkson is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: End test test suite:25:get stocks in test2 json from Clarkson.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Start test test suite:26:checks if AAPL is in Ryan's invested in example json.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:26:checks if AAPL is in Ryan's invested in example json is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: End test test suite:26:checks if AAPL is in Ryan's invested in example json.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Start test test suite:27:checks if GOOG is in Clarkson's invested in test2 json.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:27:checks if GOOG is in Clarkson's invested in test2 json is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: End test test suite:27:checks if GOOG is in Clarkson's invested in test2 json.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Start test test suite:28:checks for POST in Ryan's invested in example json (not there).
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:28:checks for POST in Ryan's invested in example json (not there) is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: End test test suite:28:checks for POST in Ryan's invested in example json (not there).
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Start test test suite:29:checks AAPL in Andrew's, but actually in Ryan's in test2 .
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:29:checks AAPL in Andrew's, but actually in Ryan's in test2  is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: End test test suite:29:checks AAPL in Andrew's, but actually in Ryan's in test2 .
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Start test test suite:30:gets Ryan's balance in example json.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:30:gets Ryan's balance in example json is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: End test test suite:30:gets Ryan's balance in example json.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Start test test suite:31:gets Ruijie's balance in test json (diff number).
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:31:gets Ruijie's balance in test json (diff number) is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: End test test suite:31:gets Ruijie's balance in test json (diff number).
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Start test test suite:32:gets Clarkson's balance in test json (decimals).
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:32:gets Clarkson's balance in test json (decimals) is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: End test test suite:32:gets Clarkson's balance in test json (decimals).
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Start test test suite:33:updates balance 10000 from 100 price.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:33:updates balance 10000 from 100 price is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: End test test suite:33:updates balance 10000 from 100 price.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Start test test suite:34:increasing a balance.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:34:increasing a balance is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: End test test suite:34:increasing a balance.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Start test test suite:35:balance remains the same.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:35:balance remains the same is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: End test test suite:35:balance remains the same.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Start test test suite:36:0 balance.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:36:0 balance is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: End test test suite:36:0 balance.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Start test test suite:37:exceeds balance by 100.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:37:exceeds balance by 100 is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: End test test suite:37:exceeds balance by 100.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Start test test suite:38:exceeds balance by 0.01.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:38:exceeds balance by 0.01 is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: End test test suite:38:exceeds balance by 0.01.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Start test test suite:39:exceeds balance by 10.01.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:39:exceeds balance by 10.01 is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: End test test suite:39:exceeds balance by 10.01.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Start test test suite:40:account 1 selling a share of SPG in example (stock gets deleted).
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:40:account 1 selling a share of SPG in example (stock gets deleted) is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: End test test suite:40:account 1 selling a share of SPG in example (stock gets deleted).
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Start test test suite:41:account 1 selling a share of AAPL in example (share subtracted).
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:41:account 1 selling a share of AAPL in example (share subtracted) is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: End test test suite:41:account 1 selling a share of AAPL in example (share subtracted).
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Start test test suite:42:account 1 selling a share not in account.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:42:account 1 selling a share not in account is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: End test test suite:42:account 1 selling a share not in account.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Start test test suite:43:account 2 selling a share of TSLA in example.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:43:account 2 selling a share of TSLA in example is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: End test test suite:43:account 2 selling a share of TSLA in example.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Start test test suite:44:account 2 selling a share not in account.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:44:account 2 selling a share not in account is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: End test test suite:44:account 2 selling a share not in account.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Start test test suite:45:adding a stock to user Ryan.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:45:adding a stock to user Ryan is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: End test test suite:45:adding a stock to user Ryan.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Start test test suite:46:adding a stock to user Andrew.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:46:adding a stock to user Andrew is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: End test test suite:46:adding a stock to user Andrew.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Start test test suite:47:adding Google stock to Ryan.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:47:adding Google stock to Ryan is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: End test test suite:47:adding Google stock to Ryan.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Start test test suite:48:adding Google stock to Andrew.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:48:adding Google stock to Andrew is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: End test test suite:48:adding Google stock to Andrew.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Start test test suite:49:adding 7 AAPL stocka to Ruijie.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:49:adding 7 AAPL stocka to Ruijie is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: End test test suite:49:adding 7 AAPL stocka to Ruijie.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Start test test suite:50:adding 0 AAPL stock to Clarkson.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:50:adding 0 AAPL stock to Clarkson is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: End test test suite:50:adding 0 AAPL stock to Clarkson.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Start test test suite:51:delete 1 account in list.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:51:delete 1 account in list is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: End test test suite:51:delete 1 account in list.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Start test test suite:52:delete 2 accounts in list.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:52:delete 2 accounts in list is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: End test test suite:52:delete 2 accounts in list.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Start test test suite:53:delete all accounts in list.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:53:delete all accounts in list is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: End test test suite:53:delete all accounts in list.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Start test test suite:54:delete account with password invalid.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:54:delete account with password invalid is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: End test test suite:54:delete account with password invalid.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Start test test suite:55:delete account with username invalid.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:55:delete account with username invalid is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: End test test suite:55:delete account with username invalid.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Start test test suite:56:adding one account to example_filewrite.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:56:adding one account to example_filewrite is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: End test test suite:56:adding one account to example_filewrite.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Start test test suite:57:adding two accounts to example_filewrite.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:57:adding two accounts to example_filewrite is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: End test test suite:57:adding two accounts to example_filewrite.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Start test test suite:58:adding multiple accounts to example_filewrite.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:58:adding multiple accounts to example_filewrite is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: End test test suite:58:adding multiple accounts to example_filewrite.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: ==============
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Summary:
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:58:adding multiple accounts to example_filewrite is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:57:adding two accounts to example_filewrite is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:56:adding one account to example_filewrite is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:55:delete account with username invalid is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:54:delete account with password invalid is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:53:delete all accounts in list is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:52:delete 2 accounts in list is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:51:delete 1 account in list is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:50:adding 0 AAPL stock to Clarkson is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:49:adding 7 AAPL stocka to Ruijie is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:48:adding Google stock to Andrew is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:47:adding Google stock to Ryan is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:46:adding a stock to user Andrew is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:45:adding a stock to user Ryan is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:44:account 2 selling a share not in account is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:43:account 2 selling a share of TSLA in example is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:42:account 1 selling a share not in account is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:41:account 1 selling a share of AAPL in example (share subtracted) is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:40:account 1 selling a share of SPG in example (stock gets deleted) is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:39:exceeds balance by 10.01 is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:38:exceeds balance by 0.01 is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:37:exceeds balance by 100 is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:36:0 balance is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:35:balance remains the same is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:34:increasing a balance is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:33:updates balance 10000 from 100 price is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:32:gets Clarkson's balance in test json (decimals) is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:31:gets Ruijie's balance in test json (diff number) is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:30:gets Ryan's balance in example json is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:29:checks AAPL in Andrew's, but actually in Ryan's in test2  is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:28:checks for POST in Ryan's invested in example json (not there) is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:27:checks if GOOG is in Clarkson's invested in test2 json is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:26:checks if AAPL is in Ryan's invested in example json is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:25:get stocks in test2 json from Clarkson is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:24:get stocks in test2 json from ruijie is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:23:get stocks in example json from Ryan is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:22:account not in test, but has that username is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:21:account not in test, but has that password is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:20:get account not in example json is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:19:Clarkson get account in test2 json is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:18:Ruijie get account in test2 json is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:17:get account in example json is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:16:all accounts from test2 json is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:15:all accounts from test json is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:14:output 8/31/2023, 31-day month is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:13:output 6/30/2024, 30-day month is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:12:output 2/29/2004, leap year is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:11:output 5/11/2023 is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:10:right corner y of box_2 is 340 is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:9:right corner y of box_1 is 125 is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:8:right corner x of box_2 is 220 is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:7:right corner x of box_1 is 70 is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:6:x of box_1 is 200 is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:5:y of box_1 is 25 is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:4:x of box_1 is 200 is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:3:x of box_1 is 20 is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:2:box2 clicked at corner (200,300) is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:1:box1 clicked at (40,60) is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Test test suite:0:box1 not clicked at (2,0) is successful.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Ran: 59 tests in: 0.02 seconds.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Cases: 59.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Tried: 59.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Errors: 0.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Failures: 0.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Skip: 0.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Todo: 0.
+2023-05-15T16:32:10+00:00 dhcp-vl2041-9688.eduroam.cornell.edu#00 I: Timeout: 0.

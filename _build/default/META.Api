@@ -1,0 +1,6 @@
+description = ""
+requires = "cohttp-lwt-unix lwt"
+archive(byte) = "api.cma"
+archive(native) = "api.cmxa"
+plugin(byte) = "api.cma"
+plugin(native) = "api.cmxs"

@@ -1,0 +1,37 @@
+To install and build the system:
+1. Install the following packages:
+  - opam install graphics
+  - opam install lwt
+  - opam install cohttp
+2. Run make build in the terminal to ensure the project has build correctly.
+3. To run the program, run make open in the terminal.
+
+To Use the Game
+  Run make open in the terminal to open the gui.
+  (Currently, once you enter a page there is no way to get back, this
+  will be implemnted in the near future.)
+  Landing Page
+    - This is the page you land in when running make open.
+    - You can get to the other pages by clicking the buttons.
+
+  Dashboard Page
+    - To go to the dashboard page, click the box that says
+      go to dashboard.
+    - On this page, you will evnetually be able to see investments
+      and net gains.
+
+  Stock Page
+    - To go to the stock search page, click on the box in the center
+      of the page.
+    - On this page, you can search up stocks.
+    - If you would like to search up a stock:
+        - Make an account with https://twelvedata.com/
+        - Copy the api key and paste it in api.ml in the
+          variable named apikey
+          - Right now, we are trying to allow the current apikey to work with any
+            computer, but that is a work in progress.
+        - Click on the box and you can search stocks and hit enter 
+          to get the price.
+
+  Blank
+    - If you click on the username button, a blank screen will appear.

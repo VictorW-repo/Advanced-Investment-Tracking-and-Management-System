@@ -1,0 +1,45 @@
+{
+  "type": "object",
+  "properties": {
+    "account": "array",
+    "items": {
+      "username": {
+        "type": "string"
+      },
+      "password": {
+        "type": "string"
+      },
+      "investedStocks": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "price": {
+              "type": "string"
+            },
+            "shares": {
+              "type": "string"
+            },
+            "dateInvested": {
+              "type": "string"
+            }
+          }
+        },
+        "required": [
+          "name",
+          "price",
+          "shares",
+          "dateInvested"
+        ]
+      }
+    },
+    "required": [
+      "username",
+      "password",
+      "investedStocks"
+    ]
+  }
+}

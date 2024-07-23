@@ -1,0 +1,3 @@
+Current Lines of Code: 1229
+To see lines of code, run make loc in the terminal.
+This automatically does not check the build folder and only includes OCAML code.
